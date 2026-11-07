@@ -31,7 +31,7 @@ Ces scores correspondent à l'exécution enregistrée dans le notebook ; ils peu
 
 ## Consulter et reproduire
 
-Le projet se trouve dans [`notebook1c3d55121c (1).ipynb`](notebook1c3d55121c%20(1).ipynb).
+Le projet se trouve dans [`notebook1c3d55121c (1).ipynb`](detection_fraude.ipynb).
 
 Pour reproduire **tel quel** le notebook, l'ouvrir dans **Kaggle Notebooks** et ajouter le jeu de données `mlg-ulb/creditcardfraud`, car le chargement du CSV utilise un chemin `/kaggle/input/...`. En local, télécharger `creditcard.csv` et adapter ce chemin.
 
